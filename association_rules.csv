@@ -1,0 +1,99 @@
+antecedent 1,antecedent 2,consequent 1,consequent 2,lift,confidence,support
+Makeup Artist and Hairstylist,,Photographer,,5.287873066,0.111787072,0.001773756
+Photographer,,Makeup Artist and Hairstylist,,5.287873066,0.08390411,0.001773756
+Handyman Contractor,Plumber,Electrical and Wiring Services,,4.440502434,0.368421053,0.001266968
+Electrical and Wiring Services,,Handyman Contractor,Plumber,4.440502434,0.015270506,0.001266968
+Electrical and Wiring Services,Handyman Contractor,Plumber,,4.306014999,0.329153605,0.001266968
+Plumber,,Electrical and Wiring Services,Handyman Contractor,4.306014999,0.016574586,0.001266968
+Electrical and Wiring Services,Plumber,Handyman Contractor,,4.130885243,0.14893617,0.001266968
+Handyman Contractor,,Electrical and Wiring Services,Plumber,4.130885243,0.035140562,0.001266968
+Electrical and Wiring Services,Aircon Servicing,Plumber,,3.973530084,0.303738318,0.002352941
+Plumber,,Electrical and Wiring Services,Aircon Servicing,3.973530084,0.030781373,0.002352941
+Handyman Contractor,,Electrical and Wiring Services,Aircon Servicing,3.931418822,0.030455154,0.001098039
+Electrical and Wiring Services,Aircon Servicing,Handyman Contractor,,3.931418822,0.141744548,0.001098039
+Plumber,,Handyman Contractor,Aircon Servicing,3.808707902,0.014522494,0.001110106
+Handyman Contractor,Aircon Servicing,Plumber,,3.808707902,0.291139241,0.001110106
+Electrical and Wiring Services,Home Cleaning,Plumber,,3.501381215,0.267647059,0.001098039
+Plumber,,Electrical and Wiring Services,Home Cleaning,3.501381215,0.014364641,0.001098039
+Electrical and Wiring Services,,Renovation Contractor,Plumber,3.47614226,0.015561373,0.001291101
+Renovation Contractor,Plumber,Electrical and Wiring Services,,3.47614226,0.288409704,0.001291101
+Electrical and Wiring Services,,Handyman Contractor,Aircon Servicing,3.470899054,0.013234439,0.001098039
+Handyman Contractor,Aircon Servicing,Electrical and Wiring Services,,3.470899054,0.287974684,0.001098039
+Handyman Contractor,,Plumber,Aircon Servicing,3.457597327,0.030789826,0.001110106
+Plumber,Aircon Servicing,Handyman Contractor,,3.457597327,0.124661247,0.001110106
+Electrical and Wiring Services,,Plumber,Aircon Servicing,3.184680898,0.028359511,0.002352941
+Plumber,Aircon Servicing,Electrical and Wiring Services,,3.184680898,0.264227642,0.002352941
+Electrical and Wiring Services,Renovation Contractor,Plumber,,2.928416217,0.223849372,0.001291101
+Plumber,,Electrical and Wiring Services,Renovation Contractor,2.928416217,0.016890292,0.001291101
+Electrical and Wiring Services,,Home Cleaning,Plumber,2.812318208,0.013234439,0.001098039
+Home Cleaning,Plumber,Electrical and Wiring Services,,2.812318208,0.233333333,0.001098039
+Plumber,,Home Cleaning,Aircon Servicing,2.701979414,0.018942384,0.001447964
+Home Cleaning,Aircon Servicing,Plumber,,2.701979414,0.206540448,0.001447964
+Plumber,,Renovation Contractor,Aircon Servicing,2.482527603,0.014048934,0.001073906
+Renovation Contractor,Aircon Servicing,Plumber,,2.482527603,0.189765458,0.001073906
+Handyman Contractor,Plumber,Aircon Servicing,,2.349813929,0.322807018,0.001110106
+Aircon Servicing,,Handyman Contractor,Plumber,2.349813929,0.008080808,0.001110106
+Renovation Contractor,Aircon Servicing,Electrical and Wiring Services,,2.261504743,0.187633262,0.00106184
+Electrical and Wiring Services,,Renovation Contractor,Aircon Servicing,2.261504743,0.012798138,0.00106184
+Home Cleaning,Plumber,Aircon Servicing,,2.239789196,0.307692308,0.001447964
+Aircon Servicing,,Home Cleaning,Plumber,2.239789196,0.010540184,0.001447964
+Electrical and Wiring Services,Home Cleaning,Aircon Servicing,,2.205204216,0.302941176,0.001242836
+Aircon Servicing,,Electrical and Wiring Services,Home Cleaning,2.205204216,0.009046992,0.001242836
+Cabinet Contractor,,Grille and Metal Installer and Supplier,,2.1728214,0.030491599,0.001182504
+Grille and Metal Installer and Supplier,,Cabinet Contractor,,2.1728214,0.084264832,0.001182504
+Home Cleaning,Aircon Servicing,Electrical and Wiring Services,,2.136725661,0.177280551,0.001242836
+Electrical and Wiring Services,,Home Cleaning,Aircon Servicing,2.136725661,0.014979639,0.001242836
+Electrical and Wiring Services,Handyman Contractor,Aircon Servicing,,2.076544372,0.285266458,0.001098039
+Aircon Servicing,,Electrical and Wiring Services,Handyman Contractor,2.076544372,0.007992973,0.001098039
+Electrical and Wiring Services,Plumber,Aircon Servicing,,2.013427522,0.276595745,0.002352941
+Aircon Servicing,,Electrical and Wiring Services,Plumber,2.013427522,0.0171278,0.002352941
+Renovation Contractor,Plumber,Aircon Servicing,,1.746250741,0.239892183,0.001073906
+Aircon Servicing,,Renovation Contractor,Plumber,1.746250741,0.007817303,0.001073906
+Plumber,Aircon Servicing,Home Cleaning,,1.543244361,0.162601626,0.001447964
+Home Cleaning,,Plumber,Aircon Servicing,1.543244361,0.013742556,0.001447964
+Electrical and Wiring Services,Aircon Servicing,Home Cleaning,,1.522691807,0.160436137,0.001242836
+Home Cleaning,,Electrical and Wiring Services,Aircon Servicing,1.522691807,0.011795694,0.001242836
+House Painting/Wall Painting,,Cabinet Contractor,,1.494968285,0.057976809,0.001749623
+Cabinet Contractor,,House Painting/Wall Painting,,1.494968285,0.045115121,0.001749623
+Curtain and Blinds Contractor,,Renovation Contractor,,1.469280147,0.193333333,0.001399698
+Renovation Contractor,,Curtain and Blinds Contractor,,1.469280147,0.010637322,0.001399698
+Home Cleaning,,Move In / Move Out Cleaning,,1.435058158,0.010077874,0.00106184
+Move In / Move Out Cleaning,,Home Cleaning,,1.435058158,0.151202749,0.00106184
+"Roof supply, install, repair",,Plumber,,1.433873702,0.109605911,0.001073906
+Plumber,,"Roof supply, install, repair",,1.433873702,0.014048934,0.001073906
+Renovation Contractor,,Tiling Contractor and Installer,,1.344807286,0.007886291,0.001037707
+Tiling Contractor and Installer,,Renovation Contractor,,1.344807286,0.176954733,0.001037707
+Electrical and Wiring Services,,Plumber,,1.341313115,0.102530541,0.008506787
+Plumber,,Electrical and Wiring Services,,1.341313115,0.111286504,0.008506787
+Aircon Servicing,,Electrical and Wiring Services,Renovation Contractor,1.340124917,0.007729469,0.00106184
+Electrical and Wiring Services,Renovation Contractor,Aircon Servicing,,1.340124917,0.184100418,0.00106184
+Electrical and Wiring Services,,"Roof supply, install, repair",,1.335900627,0.013089005,0.001085973
+"Roof supply, install, repair",,Electrical and Wiring Services,,1.335900627,0.110837438,0.001085973
+Electrical and Wiring Services,,Handyman Contractor,,1.286760626,0.046393252,0.00384917
+Handyman Contractor,,Electrical and Wiring Services,,1.286760626,0.106760375,0.00384917
+Cake Baker,,Photographer,,1.265950272,0.026762532,0.001616893
+Photographer,,Cake Baker,,1.265950272,0.076484018,0.001616893
+Plumber,,Handyman Contractor,,1.247789104,0.044988161,0.003438914
+Handyman Contractor,,Plumber,,1.247789104,0.095381526,0.003438914
+Aircon Installer,,Electrical and Wiring Services,,1.23243457,0.102253033,0.001423831
+Electrical and Wiring Services,,Aircon Installer,,1.23243457,0.01716114,0.001423831
+Home Cleaning,,Electrical and Wiring Services,Plumber,1.225073342,0.010421438,0.001098039
+Electrical and Wiring Services,Plumber,Home Cleaning,,1.225073342,0.129078014,0.001098039
+Electrical and Wiring Services,Plumber,Renovation Contractor,,1.153433424,0.15177305,0.001291101
+Renovation Contractor,,Electrical and Wiring Services,Plumber,1.153433424,0.009812013,0.001291101
+House Painting/Wall Painting,,Handyman Contractor,,1.142263978,0.041183527,0.001242836
+Handyman Contractor,,House Painting/Wall Painting,,1.142263978,0.034471218,0.001242836
+Electrical and Wiring Services,,Grille and Metal Installer and Supplier,,1.139988956,0.015997673,0.0013273
+Grille and Metal Installer and Supplier,,Electrical and Wiring Services,,1.139988956,0.094582975,0.0013273
+"Sofa, Mattress Cleaning",,Home Cleaning,,1.137458391,0.119846596,0.001508296
+Home Cleaning,,"Sofa, Mattress Cleaning",,1.137458391,0.014315163,0.001508296
+Aircon Installer,,Plumber,,1.133629433,0.086655113,0.001206637
+Plumber,,Aircon Installer,,1.133629433,0.01578532,0.001206637
+Cake Baker,,Makeup Artist and Hairstylist,,1.120237751,0.017775115,0.001073906
+Makeup Artist and Hairstylist,,Cake Baker,,1.120237751,0.067680608,0.001073906
+House Painting/Wall Painting,,Electrical and Wiring Services,,1.103594339,0.091563375,0.002763198
+Electrical and Wiring Services,,House Painting/Wall Painting,,1.103594339,0.033304247,0.002763198
+Plumber,,House Painting/Wall Painting,,1.056609716,0.031886346,0.002437406
+House Painting/Wall Painting,,Plumber,,1.056609716,0.080767693,0.002437406
+Electrical and Wiring Services,Aircon Servicing,Renovation Contractor,,1.041706839,0.137071651,0.00106184
+Renovation Contractor,,Electrical and Wiring Services,Aircon Servicing,1.041706839,0.008069693,0.00106184
